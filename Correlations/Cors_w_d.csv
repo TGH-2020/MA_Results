@@ -1,0 +1,16 @@
+List	Concept in common (total concepts in list)	Rank correlation with vi	Rank correlation with hi	Rank correlation with vi-hi
+Swadesh100	99 (100)	-0.055	0.183	-0.184
+Dyen rank (1975)	173 (196)	0.414	-0.165	0.376
+Petroni & Serva	92 (100)	0.415	-0.28	0.444
+Pagel mean rate	176 (200)	0.633	-0.396	0.601
+ASJP rank	99 (100)	0.336	-0.201	0.371
+Rama & Borin rank	99 (100)	0.229	-0.136	0.219
+Peust ranking	178 (180)	0.531	-0.313	0.532
+Tadmor score	97 (100)	0.248	-0.192	0.242
+Tadmor score (replica)	624 (1460)	0.262	-0.467	0.448
+WOLD borrowed score	624 (1460)	-0.098	0.467	-0.323
+WOLD age score	624 (1460)	0.292	-0.262	0.357
+WOLD simplicity score	624 (1460)	0.261	-0.007	0.195
+lgc	1014 (1016)	0.469	-0.3	0.523
+inf	1014 (1016)	0.353	-0.246	0.413
+NELex rank	1014 (1016)	0.483	-0.313	0.549
