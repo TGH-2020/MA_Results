@@ -1,0 +1,1015 @@
+Concept,semantic_fiel,POS,vi,hi,vi-hi,Rank
+FischN,Animals,Noun,0.873,0.286,0.587,1
+neuA,Time,Adjective,0.867,0.286,0.58,2
+AderN,NA,Noun,0.802,0.234,0.568,3
+FigurN,Religion and belief,Noun,0.761,0.219,0.541,4
+legenV,NA,Verb,0.78,0.252,0.528,5
+undCNJ,Cognition,Conjunction,0.776,0.266,0.509,6
+groA,Spatial relations,Adjective,0.748,0.248,0.5,7
+GoldN,Basic actions and technology,Noun,0.75,0.252,0.498,8
+SaatN,Agriculture and vegetation,Noun,0.773,0.278,0.495,9
+BrettN,The house,Noun,0.781,0.302,0.479,10
+BuchtN,The physical world,Noun,0.784,0.305,0.479,11
+schuttenV,Basic actions and technology,Verb,0.729,0.25,0.479,12
+nahA,Spatial relations,Adjective,0.797,0.322,0.476,13
+RuheN,Sense perception,Noun,0.698,0.222,0.476,14
+fluchtenV,NA,Verb,0.699,0.226,0.473,15
+treibenV,NA,Verb,0.81,0.339,0.471,16
+wendenV,NA,Verb,0.758,0.29,0.468,17
+dichtA,NA,Adjective,0.755,0.287,0.468,18
+LuftN,The physical world,Noun,0.851,0.387,0.464,19
+fallenV,Motion,Verb,0.754,0.291,0.463,20
+erscheinenV,NA,Verb,0.791,0.329,0.462,21
+fragenV,Speech and language,Verb,0.735,0.277,0.458,22
+ButterN,Food and drink,Noun,0.829,0.373,0.456,23
+wechselnV,NA,Verb,0.796,0.34,0.456,24
+gefrierenV,The physical world,Verb,0.733,0.278,0.455,25
+bitterA,Sense perception,Adjective,0.801,0.347,0.454,26
+verbessernV,NA,Verb,0.773,0.321,0.452,27
+lebenV,The body,Verb,0.794,0.343,0.45,28
+bindenV,Basic actions and technology,Verb,0.776,0.326,0.45,29
+HonigN,Food and drink,Noun,0.723,0.273,0.45,30
+FalleN,Warfare and hunting,Noun,0.701,0.252,0.448,31
+schwenkenV,NA,Verb,0.728,0.281,0.447,32
+sichversammelnV,Social and political relations,Verb,0.687,0.241,0.446,33
+NachrichtN,NA,Noun,0.883,0.439,0.443,34
+rauschenV,NA,Verb,0.725,0.283,0.442,35
+lesenV,Speech and language,Verb,0.696,0.257,0.439,36
+trocknenV,NA,Verb,0.835,0.397,0.438,37
+langA,Spatial relations,Adjective,0.831,0.395,0.436,38
+stohnenV,Emotions and values,Verb,0.762,0.328,0.434,39
+SpitzeN,NA,Noun,0.702,0.27,0.432,40
+vernehmenV,NA,Verb,0.694,0.263,0.431,41
+stellenV,Spatial relations,Verb,0.744,0.313,0.431,42
+KusteN,NA,Noun,0.729,0.299,0.431,43
+laufenV,Motion,Verb,0.748,0.317,0.43,44
+GromutterN,Kinship,Noun,0.768,0.339,0.429,45
+essenV,Food and drink,Verb,0.731,0.303,0.428,46
+fegenV,Basic actions and technology,Verb,0.741,0.313,0.428,47
+LochN,Spatial relations,Noun,0.734,0.307,0.427,48
+einmalADV,NA,Adverb,0.742,0.314,0.427,49
+verfaulenV,NA,Verb,0.728,0.301,0.427,50
+lehrenV,Cognition,Verb,0.765,0.339,0.426,51
+kaufenV,Possession,Verb,0.736,0.311,0.425,52
+danachADV,NA,Adverb,0.695,0.27,0.425,53
+fangenV,Motion,Verb,0.749,0.325,0.424,54
+PferdN,Animals,Noun,0.807,0.383,0.424,55
+vergessenV,Cognition,Verb,0.843,0.419,0.424,56
+eilenV,Time,Verb,0.767,0.344,0.423,57
+vorPRP,Spatial relations,Preposition,0.781,0.361,0.42,58
+HundN,Animals,Noun,0.805,0.385,0.42,59
+abschneidenV,NA,Verb,0.653,0.236,0.417,60
+oderCNJ,Cognition,Conjunction,0.841,0.426,0.416,61
+fallenlassenV,NA,Verb,0.677,0.262,0.415,62
+faulenV,NA,Verb,0.732,0.318,0.415,63
+reienV,NA,Verb,0.705,0.29,0.414,64
+zusehenseinV,NA,Verb,0.809,0.395,0.414,65
+offenA,NA,Adjective,0.773,0.359,0.414,66
+wohinFADV,NA,Interrogative (adv.),0.754,0.341,0.413,67
+abreienV,Basic actions and technology,Verb,0.696,0.285,0.411,68
+anzundenV,The physical world,Verb,0.775,0.365,0.41,69
+verschiedenA,NA,Adjective,0.736,0.327,0.409,70
+WestenN,Spatial relations,Noun,0.76,0.352,0.409,71
+GewaltN,NA,Noun,0.714,0.306,0.408,72
+FleischN,Food and drink,Noun,0.741,0.333,0.408,73
+langeADV,Time,Adverb,0.827,0.42,0.407,74
+stumpfA,Sense perception,Adjective,0.768,0.362,0.406,75
+hungrigA,Food and drink,Adjective,0.736,0.331,0.405,76
+KreisN,Spatial relations,Noun,0.702,0.298,0.404,77
+wegenPRP,NA,Preposition,0.697,0.294,0.403,78
+rechterA,Spatial relations,Adjective,0.823,0.422,0.401,79
+bedeckenV,Spatial relations,Verb,0.675,0.275,0.399,80
+sagenV,Speech and language,Verb,0.7,0.301,0.399,81
+StraeN,Motion,Noun,0.652,0.254,0.398,82
+SackN,NA,Noun,0.753,0.357,0.396,83
+wollenV,Emotions and values,Verb,0.662,0.266,0.396,84
+hinzufugenV,NA,Verb,0.659,0.263,0.396,85
+KissenN,The house,Noun,0.775,0.379,0.396,86
+arbeitenV,NA,Verb,0.741,0.345,0.395,87
+bringenV,Motion,Verb,0.732,0.338,0.394,88
+EndeN,Spatial relations,Noun,0.77,0.376,0.394,89
+versprechenV,Speech and language,Verb,0.755,0.361,0.394,90
+reifA,Food and drink,Adjective,0.732,0.339,0.393,91
+scharfA,Sense perception,Adjective,0.679,0.286,0.393,92
+NachtN,Time,Noun,0.67,0.277,0.393,93
+hangenV,NA,Verb,0.806,0.413,0.393,94
+pfluckenV,NA,Verb,0.742,0.35,0.391,95
+SchaumN,The physical world,Noun,0.76,0.369,0.391,96
+GeistN,NA,Noun,0.748,0.358,0.391,97
+soADV,NA,Adverb,0.684,0.294,0.39,98
+altA,NA,Adjective,0.769,0.38,0.389,99
+FerseN,The body,Noun,0.746,0.357,0.389,100
+GedankeN,NA,Noun,0.84,0.452,0.387,101
+lustigA,NA,Adjective,0.6,0.215,0.385,102
+MilchN,Food and drink,Noun,0.84,0.455,0.385,103
+ruckwartsADV,NA,Adverb,0.639,0.255,0.384,104
+RandN,NA,Noun,0.736,0.352,0.384,105
+sprechenV,Speech and language,Verb,0.685,0.301,0.383,106
+WaldN,The physical world,Noun,0.795,0.412,0.383,107
+auswahlenV,NA,Verb,0.731,0.348,0.383,108
+TanteN,Kinship,Noun,0.662,0.279,0.383,109
+heulenV,Speech and language,Verb,0.752,0.369,0.383,110
+klirrenV,NA,Verb,0.758,0.377,0.381,111
+FreitagN,Time,Noun,0.764,0.383,0.381,112
+andernV,Spatial relations,Verb,0.703,0.322,0.381,113
+aufwachenV,The body,Verb,0.679,0.299,0.381,114
+bittenV,Speech and language,Verb,0.742,0.362,0.38,115
+weckenV,NA,Verb,0.739,0.359,0.38,116
+heuteADV,Time,Adverb,0.734,0.356,0.378,117
+badenV,The body,Verb,0.73,0.352,0.377,118
+hinterPRP,Spatial relations,Preposition,0.634,0.257,0.377,119
+GehirnN,The body,Noun,0.759,0.383,0.376,120
+MoorN,NA,Noun,0.63,0.254,0.375,121
+sehenV,Sense perception,Verb,0.705,0.33,0.375,122
+LarmN,NA,Noun,0.672,0.298,0.374,123
+FuN,The body,Noun,0.632,0.259,0.373,124
+linkerA,Spatial relations,Adjective,0.747,0.375,0.372,125
+WunschN,NA,Noun,0.711,0.339,0.372,126
+VerstandN,Cognition,Noun,0.78,0.409,0.371,127
+LichtN,The physical world,Noun,0.75,0.379,0.371,128
+morgenADV,Time,Adverb,0.731,0.362,0.37,129
+AscheN,The physical world,Noun,0.794,0.424,0.37,130
+KehleN,The body,Noun,0.738,0.369,0.369,131
+nacktA,The body,Adjective,0.737,0.369,0.369,132
+RatselN,NA,Noun,0.81,0.442,0.368,133
+verbindenV,NA,Verb,0.688,0.321,0.367,134
+druckenV,Basic actions and technology,Verb,0.747,0.381,0.366,135
+elfNUM,Quantity,Numerical,0.826,0.46,0.366,136
+LeiterN,The house,Noun,0.725,0.359,0.366,137
+reichenV,NA,Verb,0.726,0.36,0.366,138
+sterbenV,The body,Verb,0.723,0.359,0.364,139
+WortN,Speech and language,Noun,0.727,0.363,0.364,140
+siebzigNUM,NA,Numerical,0.771,0.408,0.364,141
+einwenigADV,NA,Adverb,0.67,0.307,0.363,142
+schleifenV,NA,Verb,0.792,0.429,0.363,143
+breitA,Spatial relations,Adjective,0.704,0.342,0.363,144
+hundertNUM,Quantity,Numerical,0.754,0.391,0.362,145
+hineingehenV,Motion,Verb,0.789,0.428,0.361,146
+genesenV,NA,Verb,0.665,0.304,0.361,147
+BrotN,Food and drink,Noun,0.693,0.332,0.361,148
+sitzenV,Spatial relations,Verb,0.704,0.344,0.361,149
+HemdN,Clothing and grooming,Noun,0.705,0.346,0.359,150
+kleinA,Spatial relations,Adjective,0.719,0.36,0.359,151
+SchwanzN,The body,Noun,0.741,0.382,0.359,152
+StammN,Agriculture and vegetation,Noun,0.675,0.317,0.358,153
+FunkeN,NA,Noun,0.728,0.37,0.358,154
+glattA,Sense perception,Adjective,0.71,0.352,0.358,155
+FestlandN,The physical world,Noun,0.713,0.355,0.358,156
+zudeckenV,NA,Verb,0.656,0.299,0.357,157
+hauenV,NA,Verb,0.713,0.356,0.357,158
+UferN,The physical world,Noun,0.65,0.293,0.356,159
+aufstehenV,NA,Verb,0.724,0.369,0.355,160
+SchaleN,NA,Noun,0.66,0.306,0.354,161
+blindA,The body,Adjective,0.865,0.511,0.354,162
+zuerstADV,NA,Adverb,0.684,0.331,0.353,163
+bleibenV,Spatial relations,Verb,0.671,0.319,0.353,164
+bewahrenV,Possession,Verb,0.69,0.337,0.353,165
+HautN,The body,Noun,0.786,0.434,0.352,166
+KohleN,The physical world,Noun,0.709,0.357,0.352,167
+KammN,Clothing and grooming,Noun,0.764,0.412,0.352,168
+LeberN,The body,Noun,0.633,0.281,0.352,169
+treffenV,NA,Verb,0.61,0.259,0.351,170
+LoffelN,Food and drink,Noun,0.732,0.383,0.35,171
+OhrN,The body,Noun,0.747,0.398,0.349,172
+GelachterN,NA,Noun,0.694,0.346,0.349,173
+OstenN,Spatial relations,Noun,0.698,0.35,0.348,174
+HeimN,NA,Noun,0.679,0.333,0.346,175
+melkenV,Food and drink,Verb,0.705,0.359,0.346,176
+RiemenN,NA,Noun,0.66,0.315,0.346,177
+HausN,The house,Noun,0.758,0.412,0.346,178
+KindN,Kinship,Noun,0.694,0.349,0.345,179
+weggehenV,Motion,Verb,0.669,0.325,0.344,180
+GansN,Animals,Noun,0.741,0.398,0.344,181
+SchneeN,The physical world,Noun,0.703,0.359,0.344,182
+BeutelN,NA,Noun,0.702,0.359,0.344,183
+schreitenV,NA,Verb,0.719,0.375,0.344,184
+ArbeitN,Basic actions and technology,Noun,0.806,0.463,0.343,185
+beruhrenV,Sense perception,Verb,0.717,0.374,0.343,186
+ziehenV,Basic actions and technology,Verb,0.749,0.406,0.343,187
+MitteN,Spatial relations,Noun,0.67,0.327,0.343,188
+konnenV,NA,Verb,0.617,0.274,0.343,189
+WieseN,NA,Noun,0.742,0.399,0.343,190
+schneidenV,Basic actions and technology,Verb,0.73,0.389,0.342,191
+SeeN,The physical world,Noun,0.758,0.417,0.342,192
+siedenV,Food and drink,Verb,0.717,0.376,0.341,193
+WahrheitN,NA,Noun,0.778,0.437,0.341,194
+LausN,NA,Noun,0.795,0.454,0.341,195
+sammelnV,Spatial relations,Verb,0.719,0.378,0.341,196
+KalteN,NA,Noun,0.725,0.384,0.34,197
+schwimmenV,Motion,Verb,0.747,0.407,0.34,198
+LeuteN,NA,Noun,0.689,0.349,0.34,199
+grabenV,Agriculture and vegetation,Verb,0.689,0.349,0.34,200
+andererA,Miscellaneous function words,Adjective,0.728,0.389,0.34,201
+hebenV,NA,Verb,0.646,0.306,0.339,202
+AstN,NA,Noun,0.645,0.306,0.339,203
+vonhierADV,NA,Adverb,0.606,0.266,0.339,204
+SudenN,Spatial relations,Noun,0.73,0.39,0.339,205
+SommerN,Time,Noun,0.72,0.382,0.339,206
+stechenV,NA,Verb,0.737,0.399,0.339,207
+lachenV,Emotions and values,Verb,0.743,0.405,0.338,208
+schonADV,NA,Adverb,0.695,0.357,0.338,209
+fliehenV,Motion,Verb,0.659,0.321,0.338,210
+schreienV,Speech and language,Verb,0.648,0.311,0.337,211
+armA,Possession,Adjective,0.734,0.397,0.337,212
+umruhrenV,NA,Verb,0.647,0.311,0.337,213
+damalsADV,NA,Adverb,0.662,0.326,0.336,214
+RuckenN,The body,Noun,0.671,0.335,0.336,215
+BeereN,NA,Noun,0.699,0.364,0.335,216
+dannADV,NA,Adverb,0.673,0.337,0.335,217
+verlierenV,NA,Verb,0.76,0.425,0.335,218
+wasFPRN,Cognition,Interrogative (pronoun),0.656,0.322,0.335,219
+jetztADV,Time,Adverb,0.642,0.307,0.335,220
+KnieN,The body,Noun,0.664,0.33,0.334,221
+KornN,NA,Noun,0.672,0.338,0.334,222
+bemerkenV,NA,Verb,0.733,0.399,0.334,223
+umkommenV,NA,Verb,0.672,0.338,0.334,224
+ZahnN,The body,Noun,0.748,0.415,0.333,225
+SpinneN,Animals,Noun,0.758,0.425,0.333,226
+EhefrauN,Kinship,Noun,0.648,0.316,0.332,227
+SchattenN,The physical world,Noun,0.644,0.311,0.332,228
+WasserN,The physical world,Noun,0.722,0.39,0.332,229
+SteinN,NA,Noun,0.738,0.406,0.331,230
+dortADV,Miscellaneous function words,Adverb,0.669,0.338,0.331,231
+EllenbogenN,The body,Noun,0.677,0.347,0.33,232
+nahenV,Clothing and grooming,Verb,0.737,0.407,0.33,233
+kraftigA,NA,Adjective,0.736,0.406,0.33,234
+schluckenV,Food and drink,Verb,0.656,0.327,0.329,235
+WinterN,Time,Noun,0.706,0.378,0.329,236
+hustenV,The body,Verb,0.712,0.385,0.328,237
+StutzeN,NA,Noun,0.625,0.297,0.328,238
+KuhN,Animals,Noun,0.731,0.404,0.327,239
+werFPRN,Cognition,Interrogative (pronoun),0.676,0.349,0.327,240
+TanneN,Agriculture and vegetation,Noun,0.737,0.41,0.327,241
+SacheN,Possession,Noun,0.662,0.336,0.326,242
+NestN,Animals,Noun,0.716,0.389,0.326,243
+HungerN,NA,Noun,0.734,0.408,0.326,244
+bekommenV,Possession,Verb,0.643,0.317,0.326,245
+dunkelA,Sense perception,Adjective,0.708,0.382,0.326,246
+sausenV,NA,Verb,0.602,0.277,0.325,247
+spaterADV,NA,Adverb,0.63,0.305,0.325,248
+erPRN,Kinship,Pronoun,0.726,0.402,0.325,249
+weinenV,Emotions and values,Verb,0.699,0.374,0.325,250
+donnernV,NA,Verb,0.72,0.395,0.324,251
+FrauN,Kinship,Noun,0.693,0.369,0.324,252
+erzahlenV,Speech and language,Verb,0.598,0.275,0.323,253
+nassA,Sense perception,Adjective,0.772,0.449,0.323,254
+NordenN,Spatial relations,Noun,0.678,0.354,0.323,255
+sicherholenV,The body,Verb,0.686,0.363,0.323,256
+allesPRN,Quantity,Pronoun,0.639,0.316,0.323,257
+teuerA,Possession,Adjective,0.756,0.434,0.322,258
+rauchenV,NA,Verb,0.643,0.321,0.322,259
+rotA,Sense perception,Adjective,0.672,0.35,0.322,260
+wiederADV,Time,Adverb,0.654,0.332,0.322,261
+hochhebenV,Motion,Verb,0.696,0.375,0.321,262
+zeichnenV,NA,Verb,0.73,0.409,0.321,263
+HornN,The body,Noun,0.673,0.352,0.321,264
+erhaltenV,NA,Verb,0.69,0.369,0.321,265
+sichunterhaltenV,NA,Verb,0.672,0.351,0.321,266
+herstellenV,NA,Verb,0.597,0.277,0.321,267
+LehrerN,Cognition,Noun,0.695,0.375,0.32,268
+sichbeeilenV,Time,Verb,0.609,0.289,0.32,269
+BergN,NA,Noun,0.773,0.453,0.32,270
+BlutN,The body,Noun,0.673,0.353,0.32,271
+SchmerzN,Emotions and values,Noun,0.75,0.43,0.32,272
+tauchenV,Motion,Verb,0.685,0.366,0.32,273
+MorgenN,Time,Noun,0.682,0.363,0.32,274
+FieberN,The body,Noun,0.625,0.306,0.319,275
+untergehenSonneV,NA,Verb,0.75,0.431,0.319,276
+DachN,The house,Noun,0.682,0.363,0.319,277
+lebendigA,NA,Adjective,0.74,0.421,0.318,278
+MachtN,NA,Noun,0.779,0.461,0.318,279
+PfeilN,Warfare and hunting,Noun,0.661,0.343,0.317,280
+rufenV,Speech and language,Verb,0.679,0.361,0.317,281
+spulenV,NA,Verb,0.641,0.324,0.317,282
+dunnA,Spatial relations,Adjective,0.652,0.335,0.317,283
+GluckN,NA,Noun,0.734,0.416,0.317,284
+fuhrenV,NA,Verb,0.627,0.31,0.316,285
+spazierengehenV,NA,Verb,0.716,0.4,0.316,286
+zeigenV,Sense perception,Verb,0.809,0.493,0.316,287
+SeiteN,NA,Noun,0.633,0.317,0.316,288
+ElternN,Kinship,Noun,0.648,0.332,0.316,289
+BeinN,The body,Noun,0.706,0.391,0.315,290
+durchPRP,Miscellaneous function words,Preposition,0.761,0.447,0.314,291
+einladenV,Social and political relations,Verb,0.696,0.382,0.314,292
+fliegenV,Motion,Verb,0.72,0.406,0.314,293
+GabelN,Food and drink,Noun,0.692,0.378,0.314,294
+WeideBaumN,NA,Noun,0.681,0.368,0.313,295
+SamstagN,Time,Noun,0.671,0.358,0.312,296
+LehmN,Basic actions and technology,Noun,0.674,0.362,0.312,297
+umdrehenV,NA,Verb,0.619,0.307,0.312,298
+FreundN,Social and political relations,Noun,0.727,0.415,0.312,299
+TropfenN,NA,Noun,0.675,0.363,0.312,300
+totenV,The body,Verb,0.73,0.418,0.312,301
+reinigenV,NA,Verb,0.723,0.411,0.312,302
+reibenV,Basic actions and technology,Verb,0.626,0.314,0.311,303
+LangeN,NA,Noun,0.705,0.393,0.311,304
+rudernV,Motion,Verb,0.705,0.394,0.311,305
+KesselN,Food and drink,Noun,0.7,0.389,0.311,306
+brechenV,Basic actions and technology,Verb,0.733,0.422,0.31,307
+wunschenV,NA,Verb,0.627,0.317,0.31,308
+scheinenSonneV,Sense perception,Verb,0.755,0.445,0.309,309
+zerstorenV,Possession,Verb,0.652,0.342,0.309,310
+KraheN,Animals,Noun,0.699,0.39,0.309,311
+sichanziehenV,NA,Verb,0.677,0.368,0.309,312
+hierhinADV,NA,Adverb,0.757,0.448,0.309,313
+LautN,Sense perception,Noun,0.721,0.412,0.309,314
+StirnN,The body,Noun,0.763,0.455,0.308,315
+StaubN,The physical world,Noun,0.705,0.397,0.308,316
+diesPRN,Miscellaneous function words,Pronoun,0.603,0.295,0.308,317
+HaarN,NA,Noun,0.766,0.458,0.308,318
+zweiterA,Quantity,Adjective,0.745,0.437,0.307,319
+zusammenADV,NA,Adverb,0.692,0.385,0.307,320
+kaumADV,NA,Adverb,0.755,0.448,0.307,321
+AbendN,Time,Noun,0.649,0.342,0.307,322
+siebenNUM,Quantity,Numerical,0.728,0.422,0.307,323
+untenADV,NA,Adverb,0.705,0.399,0.306,324
+ArmelN,NA,Noun,0.717,0.411,0.306,325
+lobenV,Emotions and values,Verb,0.654,0.348,0.305,326
+TodN,NA,Noun,0.699,0.394,0.305,327
+zunehmenV,NA,Verb,0.619,0.314,0.305,328
+VaterN,Kinship,Noun,0.74,0.435,0.305,329
+backenV,Food and drink,Verb,0.621,0.316,0.305,330
+schlafenV,The body,Verb,0.772,0.467,0.304,331
+MittagN,Time,Noun,0.669,0.365,0.304,332
+BirkeN,Agriculture and vegetation,Noun,0.857,0.554,0.303,333
+GroeN,NA,Noun,0.663,0.36,0.303,334
+KonigN,Social and political relations,Noun,0.751,0.448,0.303,335
+sichruhrenV,NA,Verb,0.674,0.372,0.302,336
+verbrennenV,The physical world,Verb,0.66,0.359,0.302,337
+vorbereitenV,NA,Verb,0.738,0.436,0.301,338
+schwarzA,Sense perception,Adjective,0.741,0.44,0.301,339
+achtzigNUM,NA,Numerical,0.759,0.458,0.301,340
+alleinADV,Quantity,Adverb,0.684,0.384,0.3,341
+SchlossN,The house,Noun,0.651,0.351,0.3,342
+kurzA,Spatial relations,Adjective,0.697,0.396,0.3,343
+SalzN,Food and drink,Noun,0.559,0.259,0.3,344
+unterPRP,Spatial relations,Preposition,0.711,0.412,0.299,345
+LiedN,Modern world,Noun,0.775,0.476,0.299,346
+HalfteN,Quantity,Noun,0.653,0.355,0.298,347
+schmalA,Spatial relations,Adjective,0.67,0.373,0.297,348
+zuruckkommenV,Motion,Verb,0.686,0.39,0.296,349
+HandtuchN,Clothing and grooming,Noun,0.611,0.316,0.295,350
+KinnN,The body,Noun,0.757,0.462,0.295,351
+SpurN,NA,Noun,0.689,0.394,0.295,352
+GrasN,Agriculture and vegetation,Noun,0.788,0.493,0.295,353
+schwachA,The body,Adjective,0.729,0.435,0.294,354
+RegenN,The physical world,Noun,0.708,0.414,0.294,355
+schieenV,Warfare and hunting,Verb,0.674,0.381,0.293,356
+beugenV,Basic actions and technology,Verb,0.649,0.356,0.293,357
+GottN,NA,Noun,0.688,0.395,0.293,358
+WurmN,Animals,Noun,0.684,0.391,0.292,359
+ZeitN,Time,Noun,0.725,0.433,0.292,360
+siePRN,Kinship,Pronoun,0.726,0.434,0.292,361
+richtigA,Emotions and values,Adjective,0.648,0.357,0.292,362
+sechsNUM,Quantity,Numerical,0.69,0.399,0.292,363
+leerA,Quantity,Adjective,0.773,0.482,0.291,364
+dorthinADV,NA,Adverb,0.676,0.385,0.291,365
+FensterN,The house,Noun,0.691,0.4,0.291,366
+KopfN,The body,Noun,0.753,0.462,0.291,367
+MesserN,Basic actions and technology,Noun,0.71,0.42,0.29,368
+einschlafenV,NA,Verb,0.741,0.451,0.289,369
+GenickN,The body,Noun,0.655,0.366,0.289,370
+schuttelnV,Motion,Verb,0.698,0.409,0.289,371
+SchmutzN,NA,Noun,0.659,0.37,0.289,372
+StuckN,Quantity,Noun,0.684,0.396,0.289,373
+stehlenV,Law,Verb,0.722,0.434,0.288,374
+reparierenV,NA,Verb,0.696,0.408,0.288,375
+nehmenV,Possession,Verb,0.716,0.428,0.288,376
+funfzigNUM,NA,Numerical,0.722,0.435,0.287,377
+sichschlagenV,NA,Verb,0.61,0.323,0.287,378
+tauenV,NA,Verb,0.687,0.4,0.287,379
+WeltN,The physical world,Noun,0.756,0.469,0.287,380
+kammenV,NA,Verb,0.721,0.434,0.287,381
+weiA,Sense perception,Adjective,0.713,0.427,0.286,382
+SchulterN,The body,Noun,0.64,0.355,0.286,383
+buntA,NA,Adjective,0.698,0.412,0.285,384
+WiegeN,NA,Noun,0.694,0.409,0.285,385
+farbenV,Clothing and grooming,Verb,0.675,0.39,0.285,386
+versinkenV,NA,Verb,0.678,0.393,0.285,387
+KnotenN,Basic actions and technology,Noun,0.672,0.388,0.285,388
+ZehN,The body,Noun,0.749,0.465,0.284,389
+FebruarN,NA,Noun,0.648,0.364,0.284,390
+bellenV,NA,Verb,0.61,0.327,0.284,391
+EssenN,NA,Noun,0.67,0.387,0.283,392
+NabelN,The body,Noun,0.705,0.422,0.283,393
+BuchstabeN,NA,Noun,0.69,0.407,0.283,394
+HuhnN,Animals,Noun,0.78,0.498,0.283,395
+WolkeN,The physical world,Noun,0.644,0.361,0.283,396
+steckenV,NA,Verb,0.668,0.385,0.282,397
+leitenV,Motion,Verb,0.611,0.329,0.282,398
+verstehenV,NA,Verb,0.644,0.362,0.282,399
+NetzN,NA,Noun,0.73,0.448,0.282,400
+FlussN,NA,Noun,0.617,0.336,0.281,401
+aufhangenV,Basic actions and technology,Verb,0.731,0.45,0.281,402
+vierzigNUM,NA,Numerical,0.726,0.446,0.281,403
+FruhlingN,Time,Noun,0.747,0.466,0.281,404
+feinA,NA,Adjective,0.627,0.347,0.28,405
+neunzigNUM,NA,Numerical,0.709,0.429,0.28,406
+ersterA,Quantity,Adjective,0.748,0.468,0.28,407
+SchwanN,NA,Noun,0.744,0.465,0.28,408
+schmerzenV,NA,Verb,0.711,0.432,0.28,409
+dritterA,Quantity,Adjective,0.662,0.382,0.279,410
+oftADV,Time,Adverb,0.68,0.401,0.279,411
+blasenV,NA,Verb,0.72,0.441,0.279,412
+RindeN,Agriculture and vegetation,Noun,0.615,0.336,0.279,413
+ArztN,The body,Noun,0.755,0.476,0.279,414
+HeuN,Agriculture and vegetation,Noun,0.746,0.467,0.279,415
+fassenV,NA,Verb,0.671,0.392,0.279,416
+GesprachN,NA,Noun,0.672,0.393,0.279,417
+fullenV,NA,Verb,0.693,0.414,0.279,418
+blauA,Sense perception,Adjective,0.581,0.302,0.279,419
+FettN,Food and drink,Noun,0.816,0.537,0.278,420
+OberschenkelN,NA,Noun,0.609,0.331,0.278,421
+mitteilenV,NA,Verb,0.649,0.371,0.278,422
+hinaufADV,Spatial relations,Adverb,0.728,0.451,0.277,423
+bekanntA,NA,Adjective,0.744,0.467,0.277,424
+EisN,The physical world,Noun,0.694,0.418,0.276,425
+hutenV,NA,Verb,0.692,0.416,0.276,426
+NebelN,The physical world,Noun,0.681,0.405,0.276,427
+hellA,Sense perception,Adjective,0.725,0.451,0.275,428
+KraftN,NA,Noun,0.761,0.486,0.274,429
+weichA,Sense perception,Adjective,0.75,0.476,0.274,430
+offnenV,Spatial relations,Verb,0.67,0.396,0.274,431
+frischA,NA,Adjective,0.662,0.389,0.273,432
+ArtN,NA,Noun,0.625,0.352,0.273,433
+HaseN,Animals,Noun,0.774,0.502,0.272,434
+VogelN,Animals,Noun,0.717,0.444,0.272,435
+hinabADV,Spatial relations,Adverb,0.662,0.39,0.272,436
+fahrenV,NA,Verb,0.716,0.444,0.272,437
+rennenV,Motion,Verb,0.711,0.44,0.271,438
+wehenV,Motion,Verb,0.718,0.447,0.271,439
+bezahlenV,NA,Verb,0.699,0.428,0.27,440
+MundN,The body,Noun,0.73,0.46,0.27,441
+zwolfNUM,Quantity,Numerical,0.745,0.476,0.269,442
+ErdeN,NA,Noun,0.667,0.398,0.269,443
+tausendNUM,Quantity,Numerical,0.752,0.483,0.269,444
+leckenV,The body,Verb,0.544,0.275,0.269,445
+schmelzenV,NA,Verb,0.711,0.442,0.269,446
+spielenV,Emotions and values,Verb,0.637,0.368,0.269,447
+EichhornchenN,Animals,Noun,0.718,0.45,0.268,448
+gelingenV,NA,Verb,0.586,0.318,0.267,449
+drehenV,NA,Verb,0.554,0.286,0.267,450
+schlieenV,Spatial relations,Verb,0.648,0.381,0.267,451
+GrundN,NA,Noun,0.703,0.436,0.267,452
+strickenV,NA,Verb,0.592,0.325,0.267,453
+besitzenV,Possession,Verb,0.708,0.441,0.267,454
+vereinigenV,Spatial relations,Verb,0.647,0.381,0.266,455
+sichbewegenV,NA,Verb,0.643,0.378,0.266,456
+uberallADV,NA,Adverb,0.629,0.364,0.265,457
+redenV,NA,Verb,0.508,0.243,0.265,458
+SonntagN,Time,Noun,0.717,0.452,0.265,459
+MausN,NA,Noun,0.659,0.394,0.265,460
+anziehenV,Clothing and grooming,Verb,0.597,0.332,0.264,461
+FliegeN,Animals,Noun,0.697,0.432,0.264,462
+trinkenV,Food and drink,Verb,0.663,0.399,0.264,463
+verlassenV,NA,Verb,0.555,0.291,0.264,464
+JungeN,Kinship,Noun,0.596,0.332,0.264,465
+HoseN,Clothing and grooming,Noun,0.767,0.504,0.263,466
+vollA,Quantity,Adjective,0.689,0.426,0.263,467
+FlugelN,The body,Noun,0.751,0.488,0.263,468
+NeuigkeitN,NA,Noun,0.726,0.463,0.263,469
+MeerN,The physical world,Noun,0.586,0.324,0.262,470
+schlankA,NA,Adjective,0.605,0.343,0.262,471
+HohleN,The physical world,Noun,0.599,0.338,0.262,472
+ruhrenV,NA,Verb,0.596,0.334,0.262,473
+kommenV,Motion,Verb,0.704,0.443,0.261,474
+MengeN,NA,Noun,0.616,0.355,0.261,475
+krankwerdenV,NA,Verb,0.645,0.384,0.261,476
+kussenV,Emotions and values,Verb,0.605,0.345,0.26,477
+brennenV,The physical world,Verb,0.64,0.38,0.26,478
+gutA,Emotions and values,Adjective,0.69,0.43,0.26,479
+EhemannN,Kinship,Noun,0.657,0.397,0.26,480
+KnopfN,Clothing and grooming,Noun,0.676,0.416,0.26,481
+flieenV,Motion,Verb,0.717,0.458,0.26,482
+suA,Sense perception,Adjective,0.743,0.484,0.259,483
+kuhlA,NA,Adjective,0.654,0.395,0.259,484
+ReichtumN,NA,Noun,0.689,0.43,0.259,485
+HolzN,The physical world,Noun,0.677,0.42,0.258,486
+wieFADV,Cognition,Interrogative (adv.),0.7,0.442,0.258,487
+sauberA,Sense perception,Adjective,0.627,0.37,0.257,488
+GlasN,Basic actions and technology,Noun,0.671,0.414,0.257,489
+RufN,NA,Noun,0.595,0.339,0.257,490
+FederN,The body,Noun,0.653,0.397,0.257,491
+RauchN,The physical world,Noun,0.683,0.427,0.256,492
+StimmeN,Speech and language,Noun,0.739,0.482,0.256,493
+SchnurN,NA,Noun,0.677,0.422,0.255,494
+klebenV,NA,Verb,0.634,0.379,0.255,495
+vergebensADV,NA,Adverb,0.611,0.356,0.255,496
+KieferBaumN,Agriculture and vegetation,Noun,0.613,0.358,0.254,497
+GewichtN,NA,Noun,0.661,0.407,0.254,498
+sichwaschenV,NA,Verb,0.713,0.459,0.254,499
+FingernagelN,The body,Noun,0.646,0.392,0.254,500
+brausenV,NA,Verb,0.498,0.244,0.254,501
+KampfN,Warfare and hunting,Noun,0.699,0.445,0.253,502
+jagenV,Warfare and hunting,Verb,0.711,0.458,0.253,503
+WurzelN,Agriculture and vegetation,Noun,0.743,0.49,0.253,504
+warmA,Sense perception,Adjective,0.703,0.45,0.253,505
+gesternADV,Time,Adverb,0.674,0.421,0.253,506
+woFADV,Cognition,Interrogative (adv.),0.622,0.369,0.253,507
+trockenA,Sense perception,Adjective,0.668,0.415,0.253,508
+aufziehenV,NA,Verb,0.676,0.423,0.253,509
+PlatzN,NA,Noun,0.594,0.342,0.252,510
+HakenN,Spatial relations,Noun,0.614,0.362,0.252,511
+SternN,The physical world,Noun,0.729,0.477,0.252,512
+zerbrechenV,NA,Verb,0.577,0.325,0.252,513
+fischenV,NA,Verb,0.682,0.431,0.252,514
+vierNUM,Quantity,Numerical,0.677,0.425,0.252,515
+suchenV,Possession,Verb,0.693,0.442,0.251,516
+funfNUM,Quantity,Numerical,0.599,0.348,0.251,517
+NadelN,Clothing and grooming,Noun,0.683,0.432,0.251,518
+ScheibeN,NA,Noun,0.616,0.366,0.251,519
+stoenV,NA,Verb,0.537,0.286,0.251,520
+FrostN,NA,Noun,0.619,0.369,0.25,521
+schreibenV,Speech and language,Verb,0.718,0.467,0.25,522
+beendenV,Time,Verb,0.711,0.461,0.249,523
+steigenV,NA,Verb,0.576,0.327,0.249,524
+fernA,Spatial relations,Adjective,0.583,0.335,0.249,525
+WeideN,Animals,Noun,0.649,0.401,0.248,526
+PreisN,Possession,Noun,0.647,0.399,0.248,527
+NagelAnatomieN,NA,Noun,0.689,0.441,0.248,528
+FadenN,Clothing and grooming,Noun,0.625,0.377,0.248,529
+wirPRN,Kinship,Pronoun,0.584,0.337,0.247,530
+DonnerN,The physical world,Noun,0.594,0.347,0.247,531
+altLebewesenA,NA,Adjective,0.72,0.474,0.246,532
+GurtelN,Clothing and grooming,Noun,0.658,0.412,0.246,533
+GeschaftN,NA,Noun,0.575,0.33,0.245,534
+ehemaligA,NA,Adjective,0.625,0.38,0.245,535
+kaltA,Sense perception,Adjective,0.663,0.418,0.245,536
+zuruckADV,NA,Adverb,0.586,0.342,0.245,537
+ansehenV,NA,Verb,0.613,0.369,0.244,538
+GesundheitN,The body,Noun,0.66,0.417,0.243,539
+TraneN,Emotions and values,Noun,0.726,0.484,0.243,540
+funkelnV,NA,Verb,0.522,0.28,0.242,541
+glanzenV,NA,Verb,0.597,0.355,0.242,542
+abwischenV,Basic actions and technology,Verb,0.744,0.502,0.242,543
+schlimmA,NA,Adjective,0.547,0.305,0.242,544
+vergehenV,NA,Verb,0.554,0.312,0.242,545
+NahrungN,Food and drink,Noun,0.632,0.392,0.241,546
+tragenV,Motion,Verb,0.619,0.379,0.241,547
+schickenV,Motion,Verb,0.728,0.488,0.24,548
+ApfelN,NA,Noun,0.533,0.293,0.24,549
+BaumN,Agriculture and vegetation,Noun,0.751,0.511,0.24,550
+zerreienV,NA,Verb,0.588,0.348,0.239,551
+reichA,Possession,Adjective,0.772,0.533,0.239,552
+ankommenV,Motion,Verb,0.595,0.356,0.239,553
+spitzA,Spatial relations,Adjective,0.518,0.279,0.239,554
+dickGegenstandA,Spatial relations,Adjective,0.752,0.514,0.239,555
+zehnNUM,Quantity,Numerical,0.707,0.469,0.239,556
+SpracheN,Speech and language,Noun,0.712,0.473,0.238,557
+LebenN,The body,Noun,0.639,0.401,0.238,558
+mudewerdenV,NA,Verb,0.608,0.371,0.237,559
+MannN,Kinship,Noun,0.624,0.387,0.237,560
+GegenstandN,NA,Noun,0.603,0.366,0.237,561
+ArmN,The body,Noun,0.64,0.404,0.236,562
+niemalsADV,Time,Adverb,0.672,0.436,0.236,563
+StabN,NA,Noun,0.601,0.365,0.236,564
+GangN,NA,Noun,0.632,0.396,0.236,565
+RuderN,Motion,Noun,0.691,0.456,0.236,566
+GedachtnisN,NA,Noun,0.629,0.394,0.235,567
+SchuhN,Clothing and grooming,Noun,0.68,0.445,0.235,568
+TagN,Time,Noun,0.646,0.412,0.234,569
+einsNUM,Quantity,Numerical,0.807,0.573,0.234,570
+SchlingeN,NA,Noun,0.563,0.33,0.233,571
+wartenV,NA,Verb,0.696,0.464,0.233,572
+HalsN,The body,Noun,0.726,0.494,0.233,573
+FuchsN,Animals,Noun,0.657,0.424,0.233,574
+lernenV,Cognition,Verb,0.717,0.484,0.232,575
+RedeN,Speech and language,Noun,0.538,0.306,0.232,576
+ReiheN,NA,Noun,0.577,0.345,0.232,577
+ihrPRN,Kinship,Pronoun,0.626,0.394,0.232,578
+BreiN,NA,Noun,0.654,0.422,0.232,579
+geschicktA,NA,Adjective,0.616,0.385,0.231,580
+unterrichtenV,NA,Verb,0.61,0.379,0.231,581
+messenV,Spatial relations,Verb,0.614,0.383,0.231,582
+eintretenV,Motion,Verb,0.717,0.486,0.23,583
+rechnenV,NA,Verb,0.729,0.499,0.23,584
+krankA,The body,Adjective,0.659,0.429,0.23,585
+TasseN,Food and drink,Noun,0.631,0.401,0.229,586
+sichsetzenV,NA,Verb,0.648,0.42,0.228,587
+EisenN,Basic actions and technology,Noun,0.667,0.439,0.228,588
+feuchtA,NA,Adjective,0.625,0.397,0.228,589
+HimmelN,The physical world,Noun,0.716,0.489,0.227,590
+PfadN,Motion,Noun,0.695,0.468,0.227,591
+BriefN,Modern world,Noun,0.668,0.441,0.227,592
+erwartenV,NA,Verb,0.706,0.48,0.226,593
+lautenV,NA,Verb,0.61,0.385,0.224,594
+AtemN,NA,Noun,0.613,0.388,0.224,595
+LippeN,The body,Noun,0.707,0.482,0.224,596
+AngelegenheitN,NA,Noun,0.626,0.402,0.224,597
+stehenV,Spatial relations,Verb,0.641,0.418,0.224,598
+HerzN,The body,Noun,0.825,0.601,0.224,599
+wertvollA,NA,Adjective,0.674,0.451,0.223,600
+GesellschaftN,NA,Noun,0.664,0.441,0.223,601
+klopfenV,NA,Verb,0.559,0.337,0.223,602
+schutzenV,NA,Verb,0.58,0.357,0.223,603
+biegenV,NA,Verb,0.608,0.386,0.222,604
+streichenV,NA,Verb,0.66,0.438,0.222,605
+dreiigNUM,NA,Numerical,0.685,0.463,0.222,606
+packenV,NA,Verb,0.469,0.248,0.222,607
+sicherhebenV,NA,Verb,0.602,0.38,0.222,608
+fettA,NA,Adjective,0.606,0.385,0.222,609
+StrichN,NA,Noun,0.511,0.29,0.221,610
+sinkenV,NA,Verb,0.57,0.349,0.22,611
+AdlerN,Animals,Noun,0.712,0.492,0.22,612
+zuhorenV,Sense perception,Verb,0.662,0.443,0.22,613
+MagenN,The body,Noun,0.602,0.384,0.218,614
+teilenV,Spatial relations,Verb,0.615,0.397,0.218,615
+JahrN,Time,Noun,0.606,0.389,0.218,616
+FellN,Clothing and grooming,Noun,0.602,0.384,0.218,617
+sicherinnernanV,Cognition,Verb,0.628,0.41,0.218,618
+BarN,Animals,Noun,0.704,0.488,0.216,619
+SchlussN,Time,Noun,0.787,0.571,0.216,620
+geradeausADV,NA,Adverb,0.617,0.401,0.216,621
+geizigA,Possession,Adjective,0.517,0.301,0.216,622
+BlattN,Agriculture and vegetation,Noun,0.589,0.374,0.215,623
+jungA,Time,Adjective,0.685,0.469,0.215,624
+schmuckenV,NA,Verb,0.685,0.47,0.215,625
+tretenV,Motion,Verb,0.67,0.455,0.215,626
+BrustN,The body,Noun,0.746,0.531,0.215,627
+bauenV,Basic actions and technology,Verb,0.52,0.307,0.214,628
+betrugenV,Cognition,Verb,0.56,0.346,0.214,629
+hartA,Sense perception,Adjective,0.724,0.51,0.214,630
+ArbeiterN,NA,Noun,0.563,0.35,0.213,631
+BuchN,Speech and language,Noun,0.637,0.424,0.213,632
+KreuzN,Spatial relations,Noun,0.63,0.417,0.213,633
+HandN,The body,Noun,0.636,0.423,0.213,634
+RegalN,The house,Noun,0.657,0.445,0.213,635
+ZweigN,NA,Noun,0.583,0.371,0.212,636
+liegenV,NA,Verb,0.553,0.341,0.211,637
+reifenV,NA,Verb,0.737,0.526,0.211,638
+fremdA,NA,Adjective,0.714,0.504,0.21,639
+LederN,Clothing and grooming,Noun,0.679,0.469,0.21,640
+schimpfenV,NA,Verb,0.504,0.294,0.21,641
+kletternV,Motion,Verb,0.567,0.357,0.21,642
+SonneN,The physical world,Noun,0.698,0.488,0.21,643
+siegenV,NA,Verb,0.646,0.437,0.209,644
+HerbstN,Time,Noun,0.729,0.52,0.209,645
+setzenV,NA,Verb,0.681,0.472,0.209,646
+aufbewahrenV,Possession,Verb,0.577,0.368,0.209,647
+MuckeN,Animals,Noun,0.647,0.438,0.209,648
+StockN,NA,Noun,0.569,0.361,0.208,649
+denkenV,NA,Verb,0.638,0.43,0.208,650
+sichfurchtenV,NA,Verb,0.598,0.39,0.208,651
+LeineN,NA,Noun,0.55,0.343,0.207,652
+KieferAnatomieN,The body,Noun,0.604,0.397,0.207,653
+TraumN,NA,Noun,0.636,0.429,0.207,654
+EnteN,Animals,Noun,0.681,0.474,0.207,655
+BildN,NA,Noun,0.689,0.482,0.207,656
+erkennenV,NA,Verb,0.694,0.487,0.207,657
+zweiNUM,Quantity,Numerical,0.637,0.43,0.207,658
+verkaufenV,Possession,Verb,0.726,0.519,0.207,659
+StangeN,NA,Noun,0.547,0.341,0.206,660
+gelbA,Sense perception,Adjective,0.7,0.495,0.205,661
+DeckelN,NA,Noun,0.651,0.446,0.205,662
+vorwartsADV,NA,Adverb,0.618,0.414,0.204,663
+FingerN,The body,Noun,0.713,0.509,0.203,664
+klingelnV,NA,Verb,0.544,0.341,0.203,665
+FubodenN,The house,Noun,0.666,0.464,0.203,666
+wohnenV,The house,Verb,0.555,0.354,0.201,667
+klugA,Emotions and values,Adjective,0.557,0.356,0.201,668
+boseA,NA,Adjective,0.56,0.359,0.201,669
+rettenV,Possession,Verb,0.726,0.525,0.201,670
+fleiigA,NA,Adjective,0.554,0.353,0.2,671
+StarkeN,NA,Noun,0.558,0.359,0.2,672
+BartN,The body,Noun,0.616,0.417,0.199,673
+TuchN,NA,Noun,0.537,0.338,0.199,674
+schleppenV,NA,Verb,0.572,0.373,0.198,675
+SohnN,Kinship,Noun,0.684,0.486,0.198,676
+geborenwerdenV,The body,Verb,0.712,0.514,0.198,677
+WegN,NA,Noun,0.743,0.545,0.198,678
+OrtN,Spatial relations,Noun,0.641,0.443,0.198,679
+BodenN,NA,Noun,0.599,0.402,0.197,680
+hierADV,Miscellaneous function words,Adverb,0.599,0.402,0.197,681
+verschwindenV,Motion,Verb,0.616,0.419,0.196,682
+wissenV,Cognition,Verb,0.685,0.489,0.196,683
+krankseinV,NA,Verb,0.683,0.488,0.195,684
+HandflacheN,The body,Noun,0.701,0.507,0.194,685
+kratzenV,Food and drink,Verb,0.488,0.294,0.193,686
+SehneN,The body,Noun,0.635,0.442,0.193,687
+verteidigenV,Warfare and hunting,Verb,0.661,0.468,0.193,688
+kochenV,NA,Verb,0.708,0.515,0.193,689
+endenV,Time,Verb,0.666,0.474,0.193,690
+kehrenV,Basic actions and technology,Verb,0.482,0.289,0.192,691
+InselN,The physical world,Noun,0.711,0.519,0.192,692
+BundelN,NA,Noun,0.506,0.314,0.192,693
+neunNUM,Quantity,Numerical,0.748,0.556,0.192,694
+GastN,Social and political relations,Noun,0.683,0.491,0.191,695
+einwickelnV,Motion,Verb,0.597,0.406,0.191,696
+KleidungN,Clothing and grooming,Noun,0.55,0.36,0.19,697
+machenV,Basic actions and technology,Verb,0.539,0.35,0.189,698
+wievielFNUM,Cognition,Interrogative (num.),0.575,0.387,0.188,699
+WundeN,The body,Noun,0.634,0.446,0.188,700
+RingN,Clothing and grooming,Noun,0.675,0.487,0.188,701
+obenADV,Spatial relations,Adverb,0.618,0.431,0.187,702
+KrankheitN,The body,Noun,0.58,0.393,0.187,703
+wiegenV,NA,Verb,0.56,0.374,0.187,704
+sichtrennenV,NA,Verb,0.691,0.505,0.187,705
+kriechenV,NA,Verb,0.715,0.529,0.186,706
+festA,NA,Adjective,0.686,0.501,0.185,707
+AbstandN,NA,Noun,0.663,0.478,0.185,708
+hackenV,Basic actions and technology,Verb,0.615,0.431,0.184,709
+zwanzigNUM,Quantity,Numerical,0.728,0.544,0.184,710
+zurucklassenV,NA,Verb,0.697,0.513,0.184,711
+KuckuckN,NA,Noun,0.524,0.34,0.184,712
+frierenV,NA,Verb,0.502,0.318,0.184,713
+FeindN,Social and political relations,Noun,0.63,0.446,0.184,714
+HaufenN,NA,Noun,0.488,0.305,0.183,715
+LandN,Social and political relations,Noun,0.676,0.493,0.183,716
+FamilieN,Kinship,Noun,0.594,0.411,0.183,717
+SpielN,NA,Noun,0.609,0.427,0.182,718
+warumFADV,Cognition,Interrogative (adv.),0.681,0.499,0.182,719
+AnzahlN,NA,Noun,0.577,0.395,0.182,720
+passierenV,NA,Verb,0.569,0.388,0.181,721
+mogenV,NA,Verb,0.47,0.289,0.18,722
+HilfeN,Social and political relations,Noun,0.731,0.552,0.18,723
+springenV,Motion,Verb,0.702,0.523,0.179,724
+ZwiebelN,NA,Noun,0.533,0.354,0.179,725
+beienV,The body,Verb,0.654,0.476,0.178,726
+klingenV,NA,Verb,0.497,0.319,0.178,727
+KragenN,Clothing and grooming,Noun,0.634,0.456,0.178,728
+MadchenN,Kinship,Noun,0.579,0.401,0.178,729
+NaseN,The body,Noun,0.594,0.417,0.177,730
+TochterN,Kinship,Noun,0.679,0.502,0.177,731
+HerdeN,NA,Noun,0.656,0.479,0.177,732
+grauA,NA,Adjective,0.662,0.485,0.177,733
+grunA,Sense perception,Adjective,0.684,0.507,0.176,734
+anschauenV,Sense perception,Verb,0.622,0.446,0.176,735
+prahlenV,Speech and language,Verb,0.5,0.324,0.176,736
+KralleN,The body,Noun,0.505,0.329,0.176,737
+stromenV,NA,Verb,0.585,0.41,0.176,738
+traurigA,NA,Adjective,0.66,0.485,0.175,739
+SchlafN,NA,Noun,0.581,0.407,0.174,740
+MarzN,NA,Noun,0.555,0.381,0.174,741
+geratenV,NA,Verb,0.522,0.348,0.174,742
+schenkenV,NA,Verb,0.706,0.532,0.174,743
+aufhorenV,NA,Verb,0.662,0.489,0.173,744
+starkA,The body,Adjective,0.646,0.473,0.173,745
+wachsenV,Spatial relations,Verb,0.726,0.553,0.173,746
+ausziehenV,NA,Verb,0.575,0.403,0.173,747
+immerADV,Time,Adverb,0.591,0.419,0.172,748
+baldADV,Time,Adverb,0.459,0.288,0.171,749
+horenV,Sense perception,Verb,0.609,0.44,0.17,750
+WetterN,The physical world,Noun,0.708,0.539,0.169,751
+futternV,NA,Verb,0.626,0.458,0.168,752
+sichdrehenV,NA,Verb,0.574,0.407,0.168,753
+AlterN,Time,Noun,0.68,0.513,0.168,754
+GeruchN,NA,Noun,0.634,0.467,0.168,755
+schaukelnV,NA,Verb,0.443,0.276,0.168,756
+SchmetterlingN,Animals,Noun,0.61,0.442,0.168,757
+fuhlenV,NA,Verb,0.63,0.463,0.167,758
+zitternV,The body,Verb,0.574,0.408,0.167,759
+LugeN,NA,Noun,0.643,0.477,0.166,760
+achtNUM,Quantity,Numerical,0.664,0.499,0.165,761
+GesichtN,The body,Noun,0.573,0.409,0.164,762
+billigA,Possession,Adjective,0.673,0.509,0.164,763
+OfenN,The house,Noun,0.636,0.473,0.163,764
+sichargernV,NA,Verb,0.541,0.378,0.163,765
+SchwarmN,NA,Noun,0.583,0.422,0.161,766
+plotzlichADV,NA,Adverb,0.54,0.379,0.161,767
+StoffN,Clothing and grooming,Noun,0.509,0.349,0.161,768
+flachA,Spatial relations,Adjective,0.628,0.468,0.159,769
+storenV,NA,Verb,0.541,0.382,0.159,770
+KatzeN,Animals,Noun,0.599,0.441,0.158,771
+leckerA,NA,Adjective,0.569,0.411,0.158,772
+StromungN,NA,Noun,0.602,0.445,0.157,773
+SchwesterN,Kinship,Noun,0.601,0.444,0.157,774
+aufgehenSonneV,Motion,Verb,0.574,0.416,0.157,775
+AmeiseN,Animals,Noun,0.664,0.509,0.155,776
+HechtN,NA,Noun,0.649,0.494,0.155,777
+FreudeN,NA,Noun,0.698,0.544,0.155,778
+dasPRN,Miscellaneous function words,Pronoun,0.52,0.366,0.154,779
+findenV,Possession,Verb,0.633,0.479,0.154,780
+wahlenV,Emotions and values,Verb,0.716,0.563,0.154,781
+StuhlN,The house,Noun,0.49,0.337,0.153,782
+WolleN,Clothing and grooming,Noun,0.647,0.496,0.151,783
+HitzeN,NA,Noun,0.571,0.42,0.151,784
+nennenV,Speech and language,Verb,0.521,0.37,0.151,785
+WindN,The physical world,Noun,0.665,0.515,0.151,786
+ZungeN,The body,Noun,0.713,0.563,0.151,787
+HahnN,Animals,Noun,0.671,0.52,0.15,788
+geschlossenA,NA,Adjective,0.496,0.346,0.15,789
+QuelleN,NA,Noun,0.558,0.412,0.147,790
+EckeN,NA,Noun,0.604,0.457,0.147,791
+glaubenV,Cognition,Verb,0.622,0.477,0.145,792
+DorfN,Social and political relations,Noun,0.568,0.424,0.145,793
+einstADV,NA,Adverb,0.496,0.352,0.144,794
+MondN,The physical world,Noun,0.639,0.495,0.144,795
+schlagenV,NA,Verb,0.46,0.316,0.143,796
+ergreifenV,NA,Verb,0.395,0.251,0.143,797
+schmutzigA,Sense perception,Adjective,0.495,0.352,0.143,798
+BlumeN,Agriculture and vegetation,Noun,0.619,0.476,0.142,799
+LastN,NA,Noun,0.489,0.347,0.142,800
+GriffN,NA,Noun,0.596,0.455,0.142,801
+GetreideN,Agriculture and vegetation,Noun,0.538,0.397,0.141,802
+werdenV,Miscellaneous function words,Verb,0.633,0.492,0.141,803
+KranichN,NA,Noun,0.601,0.46,0.14,804
+gieenV,NA,Verb,0.618,0.477,0.14,805
+lassenV,NA,Verb,0.376,0.236,0.14,806
+sofortADV,NA,Adverb,0.465,0.325,0.139,807
+OnkelN,Kinship,Noun,0.374,0.235,0.139,808
+KriegN,NA,Noun,0.621,0.482,0.138,809
+vorherADV,Spatial relations,Adverb,0.47,0.333,0.138,810
+BusenN,The body,Noun,0.517,0.38,0.137,811
+TurN,The house,Noun,0.609,0.473,0.136,812
+antreibenV,NA,Verb,0.496,0.36,0.136,813
+begreifenV,Cognition,Verb,0.573,0.437,0.136,814
+haltenV,Possession,Verb,0.599,0.464,0.135,815
+MonatN,Time,Noun,0.583,0.45,0.133,816
+SchadenN,NA,Noun,0.692,0.559,0.133,817
+SchaufelN,Agriculture and vegetation,Noun,0.648,0.515,0.133,818
+RegenbogenN,The physical world,Noun,0.573,0.441,0.132,819
+beginnenV,Time,Verb,0.594,0.462,0.132,820
+aufeinmalADV,NA,Adverb,0.356,0.224,0.132,821
+anbindenV,NA,Verb,0.611,0.48,0.132,822
+WareN,NA,Noun,0.568,0.437,0.13,823
+BootN,Motion,Noun,0.6,0.47,0.13,824
+besuchenV,NA,Verb,0.518,0.388,0.13,825
+AugeN,The body,Noun,0.489,0.36,0.129,826
+GeschenkN,NA,Noun,0.717,0.588,0.129,827
+TeilN,Quantity,Noun,0.681,0.552,0.129,828
+zubereitenV,Food and drink,Verb,0.545,0.416,0.129,829
+GeschirrN,NA,Noun,0.596,0.469,0.128,830
+NutzenN,NA,Noun,0.71,0.583,0.127,831
+pfeifenV,Speech and language,Verb,0.621,0.495,0.126,832
+waschenV,Basic actions and technology,Verb,0.548,0.422,0.126,833
+versteckenV,Spatial relations,Verb,0.505,0.379,0.126,834
+hinfallenV,NA,Verb,0.5,0.374,0.126,835
+anfangenV,Time,Verb,0.619,0.493,0.125,836
+beschadigenV,Possession,Verb,0.422,0.297,0.125,837
+sechzigNUM,NA,Numerical,0.667,0.542,0.125,838
+MutterN,Kinship,Noun,0.632,0.508,0.124,839
+MusterN,NA,Noun,0.622,0.498,0.124,840
+letzterA,Quantity,Adjective,0.548,0.424,0.124,841
+GipfelN,NA,Noun,0.645,0.522,0.123,842
+schlechtA,Emotions and values,Adjective,0.496,0.373,0.123,843
+abnehmenV,NA,Verb,0.546,0.424,0.123,844
+KnochenN,The body,Noun,0.632,0.51,0.122,845
+LustN,NA,Noun,0.552,0.431,0.121,846
+schwerA,Sense perception,Adjective,0.666,0.545,0.121,847
+NagelN,Basic actions and technology,Noun,0.695,0.576,0.12,848
+EiN,Food and drink,Noun,0.663,0.544,0.119,849
+DreckN,NA,Noun,0.485,0.365,0.119,850
+BogenWaffeN,Warfare and hunting,Noun,0.667,0.548,0.119,851
+zwischenPRP,NA,Preposition,0.599,0.481,0.118,852
+bewachenV,NA,Verb,0.643,0.526,0.117,853
+AnhoheN,NA,Noun,0.358,0.242,0.115,854
+MontagN,Time,Noun,0.552,0.438,0.114,855
+werfenV,Motion,Verb,0.499,0.386,0.113,856
+scheinenV,Cognition,Verb,0.4,0.287,0.113,857
+liebenV,Emotions and values,Verb,0.54,0.428,0.113,858
+SpeiseN,Food and drink,Noun,0.585,0.473,0.112,859
+probierenV,Sense perception,Verb,0.483,0.372,0.111,860
+SchlittenN,NA,Noun,0.63,0.518,0.111,861
+BettN,The house,Noun,0.539,0.43,0.109,862
+WelleN,The physical world,Noun,0.641,0.533,0.108,863
+gebenV,Possession,Verb,0.565,0.458,0.107,864
+SchuldN,Emotions and values,Noun,0.601,0.494,0.107,865
+SchrittN,NA,Noun,0.639,0.533,0.106,866
+HoheN,NA,Noun,0.718,0.612,0.106,867
+SilberN,Basic actions and technology,Noun,0.61,0.504,0.105,868
+sauerA,Sense perception,Adjective,0.669,0.564,0.105,869
+beruhmtA,NA,Adjective,0.653,0.55,0.103,870
+sanftA,NA,Adjective,0.531,0.428,0.103,871
+larmenV,NA,Verb,0.458,0.356,0.102,872
+gehenV,Motion,Verb,0.494,0.395,0.099,873
+KircheN,Religion and belief,Noun,0.605,0.507,0.099,874
+ElchN,Animals,Noun,0.588,0.492,0.096,875
+faulA,The body,Adjective,0.554,0.458,0.095,876
+LadenN,NA,Noun,0.618,0.523,0.095,877
+BarschN,NA,Noun,0.709,0.614,0.095,878
+schonA,Emotions and values,Adjective,0.495,0.4,0.095,879
+taubA,The body,Adjective,0.667,0.573,0.094,880
+DienstagN,Time,Noun,0.587,0.495,0.093,881
+WinkelN,Spatial relations,Noun,0.494,0.402,0.092,882
+manchmalADV,Time,Adverb,0.361,0.271,0.091,883
+EuleN,Animals,Noun,0.574,0.484,0.09,884
+SundeN,NA,Noun,0.641,0.551,0.09,885
+SandN,The physical world,Noun,0.639,0.549,0.09,886
+BauN,NA,Noun,0.438,0.349,0.089,887
+BruderN,Kinship,Noun,0.54,0.45,0.089,888
+dreiNUM,Quantity,Numerical,0.488,0.399,0.089,889
+riechenV,Sense perception,Verb,0.602,0.514,0.088,890
+KlaueN,The body,Noun,0.556,0.468,0.088,891
+BesenN,Basic actions and technology,Noun,0.566,0.478,0.088,892
+TierN,Animals,Noun,0.645,0.557,0.088,893
+tauschenV,NA,Verb,0.439,0.351,0.088,894
+GrovaterN,Kinship,Noun,0.478,0.39,0.087,895
+BachN,NA,Noun,0.553,0.466,0.087,896
+ArzneiN,The body,Noun,0.584,0.498,0.086,897
+KorperN,The body,Noun,0.548,0.462,0.086,898
+MittwochN,Time,Noun,0.592,0.508,0.084,899
+ubersetzenV,NA,Verb,0.701,0.62,0.081,900
+rundA,Spatial relations,Adjective,0.577,0.496,0.081,901
+singenV,Speech and language,Verb,0.619,0.538,0.081,902
+heiA,Sense perception,Adjective,0.592,0.512,0.081,903
+PlatteN,NA,Noun,0.434,0.355,0.08,904
+BulleN,Animals,Noun,0.597,0.518,0.079,905
+FarbeN,Basic actions and technology,Noun,0.632,0.555,0.077,906
+BauchN,The body,Noun,0.635,0.559,0.077,907
+abfahrenV,NA,Verb,0.424,0.349,0.075,908
+TischN,The house,Noun,0.54,0.467,0.073,909
+PilzN,Agriculture and vegetation,Noun,0.572,0.502,0.07,910
+ErzahlungN,NA,Noun,0.494,0.426,0.068,911
+liebA,NA,Adjective,0.471,0.404,0.067,912
+nichtADV,Miscellaneous function words,Adverb,0.554,0.488,0.066,913
+WolfN,Animals,Noun,0.617,0.551,0.066,914
+GrenzeN,NA,Noun,0.505,0.439,0.066,915
+ertragenV,NA,Verb,0.56,0.495,0.065,916
+wahrA,Emotions and values,Adjective,0.526,0.461,0.065,917
+regnenV,NA,Verb,0.464,0.4,0.064,918
+bratenV,NA,Verb,0.53,0.467,0.063,919
+atmenV,The body,Verb,0.714,0.651,0.063,920
+MutzeN,NA,Noun,0.638,0.576,0.062,921
+verbergenV,NA,Verb,0.466,0.405,0.061,922
+SinnN,NA,Noun,0.611,0.55,0.06,923
+BrunnenN,NA,Noun,0.633,0.573,0.06,924
+SchafN,Animals,Noun,0.639,0.583,0.056,925
+NameN,Speech and language,Noun,0.477,0.423,0.054,926
+MenschN,Kinship,Noun,0.656,0.602,0.053,927
+argernV,NA,Verb,0.333,0.28,0.053,928
+HugelN,NA,Noun,0.516,0.463,0.053,929
+furchtenV,NA,Verb,0.614,0.564,0.05,930
+MarchenN,NA,Noun,0.572,0.522,0.05,931
+aufhebenV,Spatial relations,Verb,0.487,0.444,0.043,932
+GeschmackN,NA,Noun,0.63,0.587,0.043,933
+versuchenV,Cognition,Verb,0.565,0.523,0.042,934
+PuppeN,NA,Noun,0.632,0.59,0.042,935
+LinieN,Spatial relations,Noun,0.43,0.39,0.04,936
+dummA,Cognition,Adjective,0.525,0.485,0.04,937
+WangeN,The body,Noun,0.428,0.389,0.039,938
+SumpfN,The physical world,Noun,0.614,0.576,0.038,939
+rohA,Food and drink,Adjective,0.666,0.629,0.037,940
+schiebenV,Motion,Verb,0.488,0.452,0.037,941
+GrabN,The body,Noun,0.594,0.559,0.036,942
+tunV,Basic actions and technology,Verb,0.5,0.464,0.035,943
+KanteN,Spatial relations,Noun,0.444,0.409,0.035,944
+behindernV,NA,Verb,0.411,0.376,0.035,945
+belastigenV,NA,Verb,0.324,0.291,0.033,946
+duPRN,Kinship,Pronoun,0.503,0.471,0.033,947
+tanzenV,Motion,Verb,0.409,0.377,0.032,948
+sehrADV,NA,Adverb,0.298,0.272,0.026,949
+GeldN,Animals,Noun,0.694,0.668,0.026,950
+TonN,NA,Noun,0.352,0.326,0.025,951
+MeisterN,NA,Noun,0.432,0.411,0.021,952
+schwankenV,NA,Verb,0.288,0.269,0.019,953
+GrubeN,NA,Noun,0.486,0.469,0.016,954
+SpiegelN,Clothing and grooming,Noun,0.494,0.477,0.016,955
+nurADV,Quantity,Adverb,0.449,0.434,0.015,956
+KameradN,NA,Noun,0.391,0.379,0.013,957
+StadtN,Social and political relations,Noun,0.499,0.488,0.011,958
+GegendN,NA,Noun,0.415,0.41,0.005,959
+AbhangN,The physical world,Noun,0.355,0.351,0.004,960
+SchlangeTierN,Animals,Noun,0.593,0.59,0.003,961
+SchnurrbartN,NA,Noun,0.563,0.566,-0.003,962
+SchweinN,Animals,Noun,0.607,0.614,-0.007,963
+StiefelN,Clothing and grooming,Noun,0.412,0.421,-0.009,964
+SpatenN,Agriculture and vegetation,Noun,0.597,0.612,-0.016,965
+StaatN,NA,Noun,0.472,0.492,-0.02,966
+ZaunN,Agriculture and vegetation,Noun,0.518,0.54,-0.021,967
+LagerfeuerN,NA,Noun,0.532,0.557,-0.025,968
+AprilN,NA,Noun,0.417,0.445,-0.029,969
+nochADV,NA,Adverb,0.534,0.563,-0.029,970
+SuppeN,Food and drink,Noun,0.432,0.463,-0.031,971
+VolkN,Social and political relations,Noun,0.547,0.579,-0.032,972
+RohrN,NA,Noun,0.427,0.46,-0.032,973
+schwingenV,NA,Verb,0.325,0.359,-0.034,974
+ichPRN,Kinship,Pronoun,0.334,0.368,-0.034,975
+verderbenV,NA,Verb,0.523,0.559,-0.036,976
+malenV,Basic actions and technology,Verb,0.439,0.479,-0.039,977
+KummerN,Emotions and values,Noun,0.478,0.524,-0.046,978
+BruckeN,Motion,Noun,0.611,0.658,-0.048,979
+WocheN,Time,Noun,0.553,0.602,-0.049,980
+nebenPRP,NA,Preposition,0.349,0.399,-0.05,981
+EntfernungN,NA,Noun,0.539,0.59,-0.051,982
+EimerN,NA,Noun,0.436,0.488,-0.052,983
+TeeN,Modern world,Noun,0.28,0.335,-0.056,984
+anhaltenV,NA,Verb,0.535,0.591,-0.056,985
+TorN,NA,Noun,0.517,0.578,-0.061,986
+RaureifN,NA,Noun,0.433,0.498,-0.065,987
+SkiN,NA,Noun,0.349,0.414,-0.065,988
+FeuerN,The physical world,Noun,0.551,0.619,-0.068,989
+beherrschenV,Social and political relations,Verb,0.44,0.515,-0.075,990
+TascheN,NA,Noun,0.333,0.415,-0.082,991
+OlN,Food and drink,Noun,0.379,0.467,-0.088,992
+AugustN,NA,Noun,0.28,0.376,-0.096,993
+ChefN,NA,Noun,0.368,0.465,-0.097,994
+ZeitungN,Modern world,Noun,0.354,0.455,-0.101,995
+FehlerN,Emotions and values,Noun,0.502,0.603,-0.101,996
+UngluckN,Emotions and values,Noun,0.418,0.529,-0.111,997
+GewehrN,Warfare and hunting,Noun,0.453,0.584,-0.131,998
+JuniN,NA,Noun,0.365,0.498,-0.133,999
+hubschA,NA,Adjective,0.38,0.516,-0.136,1000
+ruttelnV,NA,Verb,0.296,0.449,-0.153,1001
+DeckeN,The house,Noun,0.428,0.59,-0.162,1002
+SeptemberN,NA,Noun,0.285,0.447,-0.162,1003
+DonnerstagN,Time,Noun,0.479,0.644,-0.165,1004
+ZeichenN,NA,Noun,0.46,0.629,-0.169,1005
+BandN,NA,Noun,0.368,0.55,-0.182,1006
+TopfN,Food and drink,Noun,0.444,0.638,-0.194,1007
+NovemberN,NA,Noun,0.191,0.407,-0.216,1008
+DezemberN,NA,Noun,0.213,0.432,-0.22,1009
+OktoberN,NA,Noun,0.213,0.439,-0.226,1010
+KisteN,NA,Noun,0.328,0.574,-0.246,1011
+JuliN,NA,Noun,0.216,0.482,-0.266,1012
+JanuarN,NA,Noun,0.17,0.444,-0.273,1013
+MaiN,NA,Noun,0.14,0.416,-0.276,1014
